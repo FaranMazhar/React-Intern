@@ -1,0 +1,2 @@
+Going by the name of the project, it is a react app for a calculator. In the root directory we find the public and src folders along with some files that set the enviroment for react app development.
+In the public folder we have the favicon.ico, index.htm and manifest.json files. The faveicon.ico is an icon. This icon is used to display the app logo when the app is bookmarked by a browser (added as a favourite)
